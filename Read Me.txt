@@ -1,0 +1,41 @@
+- Context:
+The FIFA World Cup is a global football competition contested by the various football-playing nations of the world. It is contested every four years and is the most prestigious and important trophy in the sport of football.
+- Content:
+FIFA WORLD CUP Data set contain 2 tables
+1- Cup table :
+Columns ( Year, Host Country, Winner, Runners-Up, Third, Fourth, Goals Scored, number of Qualified Teams, Matches Played,Goals scored, Top Scorer, Goals, best player,attendance).
+2- Matches table :
+Columns (ID Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Win Conditions, Host Team)
+
+In these project all following question have been answered 
+
+1- Which Countries Hosted the World Cup and Won?
+
+2- which world cup has highest goals scored?
+
+3- which country scored a highest goal outside home?
+
+4- which Final match has a highest-goals scored?
+
+5- Most Teams Won The World Cup. (top 5 Teams Won The World Cup)?
+
+6- Most Teams achieve second place in The World Cup.
+
+7- Most Teams achieve third place in The World Cup.
+
+8- which countries won the world cup in 2000s?
+
+9- Average Goals Scored In each World Cups.
+
+10- Which team has played the most matches in world cup history?
+
+11- MOST SCORED MATCH.
+
+12- Top 5 Countries Scored Goals.
+
+13- Number Of Appearance Of brazil For Each Cup and which year did it won.
+
+14- Which team has the highest win percentage in all World Cup matches(list top 10)?
+
+15- Which team has the lowest win percentage in all World Cup matches(list top 10)?
+
